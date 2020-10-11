@@ -1,0 +1,2 @@
+rootProject.name='TodoListAndroid'
+include ':app'
